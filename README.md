@@ -1,4 +1,4 @@
 # dipanshu-chauhan
 This is my repo/folder
 <br>
-Author - Dipanshu  Chauhan
+Author - Dipanshu  (Chauhan)
